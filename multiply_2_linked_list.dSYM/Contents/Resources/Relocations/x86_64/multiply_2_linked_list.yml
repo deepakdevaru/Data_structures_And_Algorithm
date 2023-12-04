@@ -1,0 +1,11 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/deepakjoshi/Documents/vscode/Practise1/multiply_2_linked_list'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z7newNodei, symObjAddr: 0x0, symBinAddr: 0x100003CC0, symSize: 0x40 }
+  - { offsetInCU: 0x7F, offset: 0x7F, size: 0x8, addend: 0x0, symName: __Z7newNodei, symObjAddr: 0x0, symBinAddr: 0x100003CC0, symSize: 0x40 }
+  - { offsetInCU: 0xB9, offset: 0xB9, size: 0x8, addend: 0x0, symName: __Z4pushP4Nodei, symObjAddr: 0x40, symBinAddr: 0x100003D00, symSize: 0x40 }
+  - { offsetInCU: 0xFD, offset: 0xFD, size: 0x8, addend: 0x0, symName: __Z16multiplyTwoListsP4NodeS0_, symObjAddr: 0x80, symBinAddr: 0x100003D40, symSize: 0xE0 }
+  - { offsetInCU: 0x161, offset: 0x161, size: 0x8, addend: 0x0, symName: __Z9printListP4Node, symObjAddr: 0x160, symBinAddr: 0x100003E20, symSize: 0x70 }
+  - { offsetInCU: 0x189, offset: 0x189, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1D0, symBinAddr: 0x100003E90, symSize: 0xC7 }
+...
