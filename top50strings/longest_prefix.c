@@ -53,6 +53,8 @@ int main(){
 
     printf(" the longest common prefix is %s\n",output);
 
+    free(output);
+
 
 
 
