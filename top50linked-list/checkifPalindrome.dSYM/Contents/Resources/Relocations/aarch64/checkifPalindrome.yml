@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/deepakjoshi/Library/Mobile Documents/com~apple~CloudDocs/Documents/vscode/Practise1/Data_structures_And_Algorithm/top50linked-list/checkifPalindrome'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _push, symObjAddr: 0x0, symBinAddr: 0x100003BD4, symSize: 0x70 }
+  - { offsetInCU: 0x7E, offset: 0x7E, size: 0x8, addend: 0x0, symName: _push, symObjAddr: 0x0, symBinAddr: 0x100003BD4, symSize: 0x70 }
+  - { offsetInCU: 0xBE, offset: 0xBE, size: 0x8, addend: 0x0, symName: _printlist, symObjAddr: 0x70, symBinAddr: 0x100003C44, symSize: 0x7C }
+  - { offsetInCU: 0xE2, offset: 0xE2, size: 0x8, addend: 0x0, symName: _reverse, symObjAddr: 0xEC, symBinAddr: 0x100003CC0, symSize: 0x8C }
+  - { offsetInCU: 0x130, offset: 0x130, size: 0x8, addend: 0x0, symName: _isPalindrome, symObjAddr: 0x178, symBinAddr: 0x100003D4C, symSize: 0x160 }
+  - { offsetInCU: 0x182, offset: 0x182, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x2D8, symBinAddr: 0x100003EAC, symSize: 0xA4 }
+...

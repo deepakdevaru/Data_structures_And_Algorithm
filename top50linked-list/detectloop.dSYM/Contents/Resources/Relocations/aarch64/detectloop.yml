@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/deepakjoshi/Library/Mobile Documents/com~apple~CloudDocs/Documents/vscode/Practise1/Data_structures_And_Algorithm/top50linked-list/detectloop'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _push, symObjAddr: 0x0, symBinAddr: 0x1000039A0, symSize: 0x70 }
+  - { offsetInCU: 0x7E, offset: 0x7E, size: 0x8, addend: 0x0, symName: _push, symObjAddr: 0x0, symBinAddr: 0x1000039A0, symSize: 0x70 }
+  - { offsetInCU: 0xBE, offset: 0xBE, size: 0x8, addend: 0x0, symName: _makeloop, symObjAddr: 0x70, symBinAddr: 0x100003A10, symSize: 0xB0 }
+  - { offsetInCU: 0x10C, offset: 0x10C, size: 0x8, addend: 0x0, symName: _detectloop, symObjAddr: 0x120, symBinAddr: 0x100003AC0, symSize: 0x144 }
+  - { offsetInCU: 0x15E, offset: 0x15E, size: 0x8, addend: 0x0, symName: _returnLoopnode, symObjAddr: 0x264, symBinAddr: 0x100003C04, symSize: 0x120 }
+  - { offsetInCU: 0x1BE, offset: 0x1BE, size: 0x8, addend: 0x0, symName: _removeloop, symObjAddr: 0x384, symBinAddr: 0x100003D24, symSize: 0x48 }
+  - { offsetInCU: 0x1E2, offset: 0x1E2, size: 0x8, addend: 0x0, symName: _printlist, symObjAddr: 0x3CC, symBinAddr: 0x100003D6C, symSize: 0x7C }
+  - { offsetInCU: 0x206, offset: 0x206, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x448, symBinAddr: 0x100003DE8, symSize: 0x130 }
+...
